@@ -1,7 +1,9 @@
 Análise de Salários em Data Science (2024) 📊
+
 Este projeto faz parte da minha formação em Data Science com Python pela Alura. O objetivo foi explorar um dataset global de salários da área de dados para entender as tendências de remuneração, o impacto da experiência nos ganhos e a distribuição de cargos.
 
 🎯 Objetivos do Projeto
+
 Analisar a distribuição salarial em diferentes níveis de experiência.
 
 Identificar os cargos com as maiores médias salariais.
