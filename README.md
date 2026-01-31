@@ -52,5 +52,5 @@ Os dados foram coletados originalmente no **Kaggle** e disponibilizados para o c
 
 Existem duas formas de conferir este trabalho:
 
-1. **Pelo GitHub:** Clique no arquivo `analise_salarios.ipynb` acima para visualizar o código e os gráficos diretamente no navegador.
+1. **Pelo GitHub:** Clique no arquivo `Imersão_de_Dados_com_Python.ipynb` acima para visualizar o código e os gráficos diretamente no navegador.
 2. **Pelo Google Colab:** Você pode abrir o projeto em um ambiente interativo clicando no botão **"Open in Colab"** que está localizado no início do notebook.
